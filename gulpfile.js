@@ -22,7 +22,7 @@ function scssTask(){
      .pipe(sass())
      .pipe(postcss([ autoprefixer(), cssnano() ]))
      .pipe(sourcemaps.write('.'))
-     .pipe(dest('dist'));
+     .pipe(dest('dist/css'));
 }
 
 // JS taks
@@ -30,7 +30,7 @@ function jsTask(){
   return src(files.jsPath)
       .pipe(concat('main.js'))
       .pipe(terser())
-      .pipe(dest('dist'));
+      .pipe(dest('dist/js'));
 }
 
 // Cachebusting taks
