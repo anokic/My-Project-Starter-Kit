@@ -24,7 +24,6 @@ GitBash <br/> <br/>
 Run GitBash and commands: <br/>
 &nbsp;   &nbsp; npm install --global gulp-cli
 
-
 Run GitBash or cmd in folder then run command: <br/>
 **gulp**
 
