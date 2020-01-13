@@ -14,7 +14,7 @@ The project starter kit has:
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SASS to CSS** compiler withing GULP and additional features like: <br/>
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **JavaScript** and **CSS** minifer, <br/>
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **CSS** autoprefixer, <br/>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Babel**, <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Babel** complier, <br/>
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cache Bust to reset **CSS** and **JavaScript**, <br/>
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Watch for changes <br/>
 
