@@ -8,6 +8,7 @@ const replace = require('gulp-replace');
 const sass = require('gulp-sass');
 const sourcemaps = require('gulp-sourcemaps');
 const terser = require('gulp-terser');
+const babel = require('gulp-babel');
 
 // File path variables
 const files = {
@@ -28,6 +29,9 @@ function scssTask(){
 // JS taks
 function jsTask(){
   return src(files.jsPath)
+      .pipe(babel({
+                presets: ['@babel/env']
+              }))
       .pipe(concat('main.js'))
       .pipe(terser())
       .pipe(dest('dist/js'));

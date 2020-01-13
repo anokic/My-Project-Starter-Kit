@@ -1,1 +1,1 @@
-window.onload=()=>{};
+"use strict";window.onload=function(){};
