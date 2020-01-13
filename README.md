@@ -21,7 +21,7 @@ To use GULP 4 install: <br/>
 NODE.JS, <br/>
 GitBash <br/> <br/>
 
-Run GitBash and commands: <br/>
+Run GitBash with commands: <br/>
 &nbsp;   &nbsp; npm install --global gulp-cli
 
 Run GitBash or cmd in folder then run command: <br/>
