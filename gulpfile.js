@@ -37,7 +37,7 @@ function jsTask(){
       .pipe(dest('dist/js'));
 }
 
-// Cachebusting taks
+// Cachebusting task
 const cbString = new Date().getTime();
 function cacheBustTask(){
   return src(['index.html'])
@@ -45,11 +45,13 @@ function cacheBustTask(){
       .pipe(dest('.'));
 }
 
+// Watch task
 
 const watchTask = function() {
     watch("./assets/styles/sass/**/*.scss", {usePolling : true}, series(scssTask));
     watch("./assets/js/**/*.js", {usePolling : true}, series(jsTask));
 };
+
 // Default task
 exports.default = series(
   parallel(scssTask, jsTask),

@@ -19,7 +19,7 @@ The project starter kit has:
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Watch for changes <br/>
 
 To use **GULP 4** install: <br/>
-Node.js , <br/>
+Node.js, <br/>
 GitBash <br/> <br/>
 
 Run GitBash with commands: <br/>
