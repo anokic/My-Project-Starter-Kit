@@ -4,29 +4,29 @@ I have made a project starter kit so I don't have to repeat myself from project 
 The project starter kit has:
 
 1. **HTML**<br/>
-     &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  **HTML** is connected to the CSS and JavaScript with expected meta tags and jQuery
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **HTML** is connected to the CSS and JavaScript with expected meta tags and jQuery
 
 2. **CSS** compiler **SASS**<br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; Reset style present **reset.scss** <br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **SASS** folder structure connected and imported withing **main.scss**
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reset style present **reset.scss** <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SASS** folder structure connected and imported withing **main.scss**
 
 3. **JavaScript** **GULP 4**<br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **SASS to CSS** compiler withing GULP and additional features like: <br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **JavaScript** and **CSS** minifer, <br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **CSS** autoprefixer, <br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **Babel**, <br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; Cache Bust to reset **CSS** and **JavaScript**, <br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; Watch for changes <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SASS to CSS** compiler withing GULP and additional features like: <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **JavaScript** and **CSS** minifer, <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **CSS** autoprefixer, <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Babel**, <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cache Bust to reset **CSS** and **JavaScript**, <br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Watch for changes <br/>
 
-To use GULP 4 install: <br/>
-NODE.JS, <br/>
+To use **GULP 4** install: <br/>
+Node.js , <br/>
 GitBash <br/> <br/>
 
 Run GitBash with commands: <br/>
-&nbsp;   &nbsp; npm install --global gulp-cli
+&nbsp; &nbsp; npm install --global gulp-cli
 
 Run GitBash or cmd in folder then run command: <br/>
-&nbsp;   &nbsp; npm install <br/>
-&nbsp;   &nbsp; **gulp**
+&nbsp; &nbsp; npm install <br/>
+&nbsp; &nbsp; **gulp**
 
 ![Folder structure](https://i.ibb.co/48ZvjrG/brisi.png)
