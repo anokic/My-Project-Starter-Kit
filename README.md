@@ -11,7 +11,7 @@ The project starter kit has:
  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **SASS** folder structure connected and imported withing **main.scss** 
 
 3. **JavaScript** **GULP 4**<br/>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **SASS to CSS** compiler withing GULP with additional featers like: <br/>
+ &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **SASS to CSS** compiler withing GULP and additional features like: <br/>
  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **JavaScript** and **CSS** minifer, <br/>
  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; **CSS** autoprefixer, <br/>
  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;       Cache Bust to reset **CSS** and **JavaScript**, <br/>
