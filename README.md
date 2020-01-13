@@ -26,6 +26,6 @@ Run GitBash and commands: <br/>
 
 Run GitBash or cmd in folder then run command: <br/>
 &nbsp;   &nbsp; npm install <br/>
-**gulp**
+&nbsp;   &nbsp; **gulp**
 
 ![Folder structure](https://i.ibb.co/48ZvjrG/brisi.png)
